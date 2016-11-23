@@ -35,6 +35,19 @@ a:hover{
   font-size: 25px;
   font-family: ArialMT Regular, sans-serif;
 }
+.chooseUL{
+  display: inline-block;
+  margin: 0px 15px 28px 15px;
+  border: solid 3px black;
+  padding: 5px 3px;
+  font-family: Arial BoldMT,sans-serif;
+  font-size: 15px;
+}
+.chooseUL:hover{
+  background-color: red;
+  color: white;
+  transition: all 0.2s ease;
+}
 
 .clear{
   clear:both;
@@ -199,18 +212,8 @@ a:hover{
   font-size: 20.83px;
   line-height: 30px;
 }
-.chooseUL{
-  margin: 20px 1px 20px 10px;
-  border: solid 3px black;
-  padding: 5px 3px;
-  font-family: Arial BoldMT,sans-serif;
-  font-size: 15px;
-}
-.chooseUL:hover{
-  background-color: red;
-  color: white;
-  transition: all 0.2s ease;
-}
+
+
 
 .cc{
   float: right;
