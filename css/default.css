@@ -200,11 +200,11 @@ a:hover{
   line-height: 30px;
 }
 .chooseUL{
-  margin: 20px 0px 20px 30px;
-  border: solid 4px black;
-  padding: 6px 4px;
+  margin: 20px 1px 20px 10px;
+  border: solid 3px black;
+  padding: 5px 3px;
   font-family: Arial BoldMT,sans-serif;
-  font-size: 25px;
+  font-size: 15px;
 }
 .chooseUL:hover{
   background-color: red;
